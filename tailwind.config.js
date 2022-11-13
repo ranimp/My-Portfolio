@@ -6,7 +6,7 @@ module.exports = {
   theme: {
     extend: {
       backgroundImage: {
-        'hero-image': "url('/src/assets/bg-real.svg')",
+        'hero-image': "url('/public/assets/bg-real.svg')",
       },
       fontFamily: {
         'montserrat-bold': ['Montserrat-Bold'],

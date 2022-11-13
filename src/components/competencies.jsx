@@ -1,5 +1,4 @@
 import React from 'react';
-import Skills from '../assets/skills.svg';
 
 const Competencies = () => (
   <div>
@@ -10,7 +9,7 @@ const Competencies = () => (
           These are some of programming languages and tools that i use to work on my projects.
         </p>
       </div>
-      <img src={Skills} alt="skills" className="mx-auto my-8" />
+      <img src="/assets/skills.svg" alt="skills" className="mx-auto my-8" />
     </div>
   </div>
 );

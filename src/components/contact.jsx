@@ -1,7 +1,4 @@
 import React from 'react';
-import Gmail from '../assets/gmail.svg';
-import Linkedin from '../assets/Linkedin.svg';
-import Github from '../assets/github.svg';
 
 const Contact = () => (
   <div>
@@ -15,19 +12,19 @@ const Contact = () => (
       </div>
       <div className="my-4 font-montserrat-medium text-black-100 bg-pink-100 w-80 mx-auto px-2 py-4 rounded-lg">
         <div className="grid grid-cols-12 items-center">
-          <img src={Gmail} alt="gmail" width="40" className="col-span-2 mx-2" />
+          <img src="/assets/gmail.svg" alt="gmail" width="40" className="col-span-2 mx-2" />
           <a className="col-span-10 mx-2 hover:underline" href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=ranimeliyanaputri@gmail.com" target="_blank" rel="noreferrer">
             ranimeliyanaputri@gmail.com
           </a>
         </div>
         <div className="grid grid-cols-12 items-center mt-4">
-          <img src={Linkedin} alt="linkedin" width="40" className="col-span-2 mx-2" />
+          <img src="/assets/Linkedin.svg" alt="linkedin" width="40" className="col-span-2 mx-2" />
           <a className="col-span-10 mx-2 hover:underline" href="https://www.linkedin.com/in/ranimp" target="_blank" rel="noreferrer">
             Rani Meliyana Putri
           </a>
         </div>
         <div className="grid grid-cols-12 items-center mt-4">
-          <img src={Github} alt="linkedin" width="40" className="col-span-2 mx-2" />
+          <img src="/assets/github.svg" alt="linkedin" width="40" className="col-span-2 mx-2" />
           <a className="col-span-10 mx-2 hover:underline" href="https://github.com/ranimp" target="_blank" rel="noreferrer">
             ranimp
           </a>

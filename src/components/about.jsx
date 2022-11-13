@@ -1,12 +1,11 @@
 import React from 'react';
-import MyPhoto from '../assets/photo.svg';
 
 const About = () => (
   <div>
     <div className="lg:container lg:mx-auto mx-4 bg-white mt-16 lg:mt-32" id="about" name="about" data-aos="fade-up">
       <div className="lg:grid grid-cols-12 justify-between items-center">
         <div className="hidden lg:block lg:col-span-5" id="photo" name="photo">
-          <img src={MyPhoto} alt="my-pic" />
+          <img src="/assets/photo.svg" alt="my-pic" />
         </div>
         <div className="lg:col-span-7" id="about-me" name="about-me">
           <p className="font-montserrat-bold text-2xl lg:text-4xl text-pink-300 text-center lg:text-start">About Me</p>
