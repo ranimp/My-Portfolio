@@ -16,12 +16,9 @@ const About = () => (
             . My friends also call me
             {' '}
             <span className="text-pink-300">Rani</span>
-            . Undergraduate student who has an interest in software engineering, especially in
-            web and mobile
-            development. Currently at 7th semester at Institut Teknologi Kalimantan majoring
-            Informatics. A person who likes to explore knowledge and experience at any chance
-            and can work well in team. A person who think that experience from others is a
-            lesson for ourselves in the future.
+            . A final year student at Computer Science in Institut Teknologi Kalimantan who
+            has knowledge and interest for web and mobile development. A person who has
+            interest in exploring, learning, and implementing new technologies.
           </p>
         </div>
       </div>

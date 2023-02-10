@@ -86,13 +86,13 @@ const Portfolios = () => (
             </div>
           </a>
           <div className="card-actions font-montserrat-medium text-pink-300 text-center underline py-4">
-            <a href="https://github.com/ranimp/" target="_blank" className="text-sm flex justify-center hover:text-lg hover:text-black-100" rel="noreferrer">
+            {/* <a href="https://github.com/ranimp/" target="_blank" className="text-sm flex justify-center hover:text-lg hover:text-black-100" rel="noreferrer">
               <span className="mr-2">Details -&gt;</span>
-            </a>
+            </a> */}
           </div>
         </div>
         <div className="card lg:w-1/4 bg-pink-100 shadow-xl rounded-xl hover:-translate-y-1 hover:scale-110">
-          <a href="#home">
+          <a href="https://duadelapans.com">
             <figure className="px-6 pt-6">
               <img src="/assets/pj-6.svg" alt="Shoes" className="rounded-xl w-full" />
             </figure>
@@ -101,9 +101,9 @@ const Portfolios = () => (
             </div>
           </a>
           <div className="card-actions font-montserrat-medium text-pink-300 text-center underline py-4">
-            <a href="https://duadelapans.com" target="_blank" className="text-sm flex justify-center hover:text-lg hover:text-black-100" rel="noreferrer">
+            {/* <a href="https://duadelapans.com" target="_blank" className="text-sm flex justify-center hover:text-lg hover:text-black-100" rel="noreferrer">
               <span className="mr-2">Details -&gt;</span>
-            </a>
+            </a> */}
           </div>
         </div>
       </div>
