@@ -79,7 +79,7 @@ const Portfolios = () => (
         <div className="card lg:w-1/4 bg-pink-100 shadow-xl rounded-xl hover:-translate-y-1 hover:scale-110">
           <a href="#home">
             <figure className="px-6 pt-6">
-              <img src="/assets/pj-5.svg" alt="Shoes" className="rounded-xl w-full" />
+              <img src="/assets/pj-5.svg" alt="Shoes" className="rounded-xl w-full h-32" />
             </figure>
             <div className="card-body items-center text-center text-pink-300 font-montserrat-bold pt-4 hover:underline px-4">
               <p>#KampusMerdeka Paragon : PBP Mobile App</p>
@@ -94,7 +94,7 @@ const Portfolios = () => (
         <div className="card lg:w-1/4 bg-pink-100 shadow-xl rounded-xl hover:-translate-y-1 hover:scale-110">
           <a href="https://duadelapans.com">
             <figure className="px-6 pt-6">
-              <img src="/assets/pj-6.svg" alt="Shoes" className="rounded-xl w-full" />
+              <img src="/assets/pj-6.png" alt="dua-delapan" className="rounded-xl w-full" />
             </figure>
             <div className="card-body items-center text-center text-pink-300 font-montserrat-bold pt-4 hover:underline px-4">
               <p>Dua Delapan September Katalog Book</p>
@@ -104,6 +104,22 @@ const Portfolios = () => (
             {/* <a href="https://duadelapans.com" target="_blank" className="text-sm flex justify-center hover:text-lg hover:text-black-100" rel="noreferrer">
               <span className="mr-2">Details -&gt;</span>
             </a> */}
+          </div>
+        </div>
+        <div className="card lg:w-1/4 bg-pink-100 shadow-xl rounded-xl hover:-translate-y-1 hover:scale-110">
+          <a href="https://blockhc.vercel.app/">
+            <figure className="px-6 pt-6">
+              <img src="/assets/pj-7.png" alt="Shoes" className="rounded-xl w-full" />
+            </figure>
+            <div className="card-body items-center text-center text-pink-300 font-montserrat-bold pt-4 hover:underline px-4">
+              <p>Blockchain Health Care</p>
+            </div>
+          </a>
+          <div className="card-actions font-montserrat-medium text-pink-300 text-center underline py-4">
+            <a href="https://github.com/ranimp/blockhc-test" target="_blank" className="text-sm flex justify-center hover:text-lg hover:text-black-100" rel="noreferrer">
+              <span className="mr-2">View on github</span>
+              <img src="/assets/github.svg" alt="github" width="16" />
+            </a>
           </div>
         </div>
       </div>

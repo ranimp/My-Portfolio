@@ -16,9 +16,9 @@ const About = () => (
             . My friends also call me
             {' '}
             <span className="text-pink-300">Rani</span>
-            . A final year student at Computer Science in Institut Teknologi Kalimantan who
-            has knowledge and interest for web and mobile development. A person who has
-            interest in exploring, learning, and implementing new technologies.
+            . I am a fresh graduate in Computer Science with a strong passion
+            and experience in web and mobile development, particularly with JavaScript and React.
+            A person who has interest in exploring, learning, and implementing new technologies.
           </p>
         </div>
       </div>
