@@ -122,6 +122,16 @@ const Portfolios = () => (
             </a>
           </div>
         </div>
+        <div className="card lg:w-1/4 bg-pink-100 shadow-xl rounded-xl hover:-translate-y-1 hover:scale-110">
+          <a href="https://www.refundway.com/">
+            <figure className="px-6 pt-6">
+              <img src="/assets/pj-8.png" alt="Shoes" className="rounded-xl w-full" />
+            </figure>
+            <div className="card-body items-center text-center text-pink-300 font-montserrat-bold pt-4 hover:underline px-4">
+              <p>Refundway Company Profile</p>
+            </div>
+          </a>
+        </div>
       </div>
     </div>
   </div>
