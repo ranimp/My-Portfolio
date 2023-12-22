@@ -9,6 +9,9 @@ const About = () => (
         </div>
         <div className="lg:col-span-7" id="about-me" name="about-me">
           <p className="font-montserrat-bold text-2xl lg:text-4xl text-pink-300 text-center lg:text-start">About Me</p>
+          <div className="lg:hidden flex justify-center my-2" id="photo" name="photo">
+            <img src="/assets/photo.svg" alt="my-pic" className="w-80" />
+          </div>
           <p className="font-montserrat-medium lg:text-xl text-black-100 my-4 text-justify">
             Hello, my name is
             {' '}

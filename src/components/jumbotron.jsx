@@ -12,9 +12,6 @@ const Jumbotron = () => (
             <a href="#competencies" className="hover:text-lg">competencies</a>
             <a href="#contact" className="hover:text-lg">contact</a>
           </div>
-          <div className="lg:hidden my-8" name="illustration-side">
-            <img src="/assets/photo.svg" alt="hero-pic" />
-          </div>
           <div className="font-montserrat-bold text-white text-3xl lg:text-6xl capitalize mt-8 lg:mt-24" name="large-text">
             <p>hi,</p>
             <p className="my-2 lg:my-4">
