@@ -17,6 +17,7 @@ const About = () => (
             Proficient in React, JavaScript, HTML, CSS, and Git. Always eager to learn new technologies and trends. 
             I am seeking a challenging role where I can contribute my technical skills and creativity to 
             drive digital growth for a dynamic organization.
+          </p>
         </div>
       </div>
     </div>
