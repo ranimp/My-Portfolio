@@ -19,7 +19,7 @@ const Jumbotron = () => (
               {' '}
               <span className="bg-white px-2 lg:px-6 text-pink-300 lg:hover:text-7xl rounded-lg">rani</span>
             </p>
-            <p>web developer</p>
+            <p>software developer</p>
           </div>
           <div className="font-montserrat-medium text-white lg:text-3xl my-6 lg:mt-10" name="smaller-text">
             <p>
