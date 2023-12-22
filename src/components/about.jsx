@@ -13,16 +13,10 @@ const About = () => (
             <img src="/assets/photo.svg" alt="my-pic" className="w-80" />
           </div>
           <p className="font-montserrat-medium lg:text-xl text-black-100 my-4 text-justify">
-            Hello, my name is
-            {' '}
-            <span className="text-pink-300">Rani Meliyana Putri</span>
-            . My friends also call me
-            {' '}
-            <span className="text-pink-300">Rani</span>
-            . I am a fresh graduate in Computer Science with a strong passion
-            and experience in web and mobile development, particularly with JavaScript and React.
-            A person who has interest in exploring, learning, and implementing new technologies.
-          </p>
+            Software developer with a strong passion and experience in web and mobile development. 
+            Proficient in React, JavaScript, HTML, CSS, and Git. Always eager to learn new technologies and trends. 
+            I am seeking a challenging role where I can contribute my technical skills and creativity to 
+            drive digital growth for a dynamic organization.
         </div>
       </div>
     </div>
